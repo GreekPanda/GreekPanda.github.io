@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 欢迎来到GreeKPanda的博客
 
-You can use the [editor on GitHub](https://github.com/GreekPanda/GreekPanda.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###这是开篇第一篇，以《道德经》开篇
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+道可道，非常道；名可名，非常名。
 
-### Markdown
+无名，天地之始，有名，万物之母。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+故常无欲，以观其妙，常有欲，以观其徼。
 
-```markdown
-Syntax highlighted code block
+此两者，同出而异名，同谓之玄，玄之又玄，众妙之门。
 
-# Header 1
-## Header 2
-### Header 3
+……
 
-- Bulleted
-- List
+道生一，一生二，二生三，三生万物。万物负阴而抱阳，冲气以为和。人之所恶，
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GreekPanda/GreekPanda.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+唯孤寡不穀，而王公以为称。故物，或损之而益，或益之而损。人之所教，我亦教之。强梁者不得其死，吾将以为教父。
